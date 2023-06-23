@@ -1,0 +1,12 @@
+.paragrafo{
+    background-color: #d4258c;
+ background-image: url('issoai.jpg');
+}
+
+.bloquin{
+ background-color: #bbbbbb;
+ border: 10px solid ;
+   border-radius: 50px;
+ border-color: #f6ab24 ;
+ background-image: url("FNAF.jpg");
+}
